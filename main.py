@@ -27,7 +27,7 @@ import os
 
 from transformers import pipeline
 
-os.environ['OPENAI_API_KEY'] = "sk-b502-xfV2gDLyYr29a1TDSNeQT3BlbkFJaVni7LIApNQrYsYbUSwk"
+os.environ['OPENAI_API_KEY'] = "sk-xxxxxxxxxxxxxxxxxxxxxxxxx"
 os.environ['HTTP_PROXY'] = 'http://127.0.0.1:7897'
 os.environ['HTTPS_PROXY'] = 'http://127.0.0.1:7897'
 #####################################################################################################
